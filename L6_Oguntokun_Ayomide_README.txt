@@ -6,9 +6,9 @@ Lab6
 * *Date Created*: DD MMM YYYY 10/03/2025
 * *Last Modification Date*: DD MMM YYYY 13/03/2025
 * *Lab URL*: <http://example.com/>
-Netlify:
-Personal Github:
-Gitlab:
+Netlify: https://reacteporfolio.netlify.app/
+Personal Github: https://github.com/Billy746/lab6.git
+Gitlab: https://git.cs.dal.ca/oguntokun/csci3172.git
 
 
 
